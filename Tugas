@@ -1,1 +1,27 @@
+Sejarah dan definisi IOT
+IoT, atau Internet of Things, merujuk pada jaringan perangkat fisik yang terhubung dan dapat berkomunikasi melalui internet. Konsep ini muncul pada awal 2000-an dan berkembang seiring waktu. IoT memungkinkan berbagai objek, seperti sensor, perangkat rumah pintar, dan kendaraan terhubung untuk berbagi data dan saling berinteraksi. Sejarahnya melibatkan perkembangan teknologi sensor, komunikasi nirkabel, dan komputasi awan untuk menciptakan ekosistem yang lebih pintar dan terintegrasi.
 
+Referensi model IOT
+1. Model OSI (Open Systems Interconnection): Sering digunakan sebagai dasar untuk memahami lapisan komunikasi dalam ekosistem IoT.
+2. Architectural Reference Model (ARM): Dikembangkan oleh Internet Engineering Task Force (IETF) untuk memberikan panduan arsitektur umum untuk implementasi IoT.
+3. MQTT (Message Queuing Telemetry Transport): Protokol komunikasi ringan yang sering digunakan dalam arsitektur IoT untuk pertukaran data antar perangkat.
+4. CoAP (Constrained Application Protocol): Protokol komunikasi yang dirancang khusus untuk perangkat IoT yang terbatas sumber daya.Fog Computing Model: Mengintegrasikan komputasi awan dengan komputasi di tingkat tepi jaringan (edge) untuk meningkatkan efisiensi dan responsivitas dalam ekosistem IoT.
+5. W3C WoT (Web of Things): Menciptakan standar untuk membuat objek fisik dapat diakses dan diidentifikasi secara online melalui World Wide Web.
+6. RAMI 4.0 (Reference Architecture Model for Industry 4.0): Merupakan model arsitektur referensi yang berkaitan dengan konsep Industri 4.0, yang juga mencakup penggunaan teknologi IoT.
+
+Macam-Macam kebutuhan IOT
+1. Perangkat Keras (Hardware): Sensor, aktuator, perangkat komunikasi nirkabel, dan perangkat fisik lainnya yang diperlukan untuk mengumpulkan dan mentransmisikan data.
+2. Perangkat Lunak (Software): Sistem operasi perangkat IoT, middleware untuk pengelolaan data, dan aplikasi khusus yang memproses informasi yang dikumpulkan.
+3. Keamanan (Security): Langkah-langkah keamanan yang ketat untuk melindungi data dan perangkat dari ancaman siber, termasuk enkripsi data, otentikasi perangkat, dan manajemen hak akses.
+4. Jaringan dan Komunikasi: Infrastruktur jaringan yang handal dan protokol komunikasi yang mendukung pertukaran data antar perangkat, seperti Wi-Fi, Bluetooth, atau teknologi nirkabel lainnya.
+5. Manajemen Energi: Solusi untuk mengelola konsumsi energi perangkat IoT agar efisien, termasuk teknologi hemat daya dan pengelolaan daya terpusat.
+6. Interoperabilitas: Kemampuan perangkat IoT untuk berinteraksi dan berkomunikasi dengan perangkat dari vendor atau platform yang berbeda, melalui standar antarmuka dan protokol yang seragam.
+7. Analitika dan Kecerdasan Buatan: Algoritma analitika untuk menganalisis data yang dikumpulkan dan mendapatkan wawasan yang berharga, serta penggunaan kecerdasan buatan untuk meningkatkan fungsionalitas perangkat.
+8. Manajemen Siklus Hidup (Lifecycle Management): Pengelolaan perangkat IoT dari awal pembuatan hingga pembaruan perangkat lunak, pemeliharaan, dan akhir siklus hidupnya.
+9. Ketersediaan dan Ketahanan (Availability and Reliability): Sistem harus dapat diandalkan dan tersedia untuk memastikan operasi yang kontinu.
+10. Kebijakan dan Kepatuhan (Policy and Compliance): Kebijakan dan aturan yang memastikan kepatuhan terhadap regulasi dan standar yang berlaku.
+
+Contoh Impementasi IOT
+Smart home: Smart AC yang otomatis menurunkan suhu menyesuaikan suhu luar ruangan.
+Smart Cities: CCTV yang dapat mendeteksi pelanggaran lalu lintas.
+Smart Healtcare: Pemantauan pasien jarak jauh dengan sebuah perangkat.
